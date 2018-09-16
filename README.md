@@ -1,5 +1,5 @@
-# Hydra
-The basic component using c# as CS development
+# Hydra 
+The basic component using c# when CS development
 
 
-##This is first to use git, so simple it!  ^_^ ^_^ ^_^ 
+## This is first to use git, so simple it!  ^_^ ^_^ ^_^ 
