@@ -1,0 +1,4 @@
+E:\Work\CYBSTAR\code\PCS\PCS.APC\bin\RPC\Hydra.Net.RPC.dll
+E:\Work\CYBSTAR\code\PCS\PCS.APC\bin\RPC\Hydra.Net.RPC.pdb
+E:\Work\CYBSTAR\code\PCS\PCS.APC\Hydra.Net.RPC\obj\Release\Hydra.Net.RPC.dll
+E:\Work\CYBSTAR\code\PCS\PCS.APC\Hydra.Net.RPC\obj\Release\Hydra.Net.RPC.pdb
